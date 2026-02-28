@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-telegram-bot==20.6
+youtube-transcript-api
+faiss-cpu
+sentence-transformers
+requests
+deep-translator
+pydantic
